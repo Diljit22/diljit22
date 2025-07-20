@@ -27,7 +27,7 @@
 
 Quantative finance projects
 
-* [OptPricing](https://diljit22.github.io/quantFin) – Python library pricing option contracts, valuing rates, investigating implied volatatily; features 15+ derivative models and advanced numerical algorithms
+* [OptPricing](https://diljit22.github.io/quantFin) – Python library pricing option contracts, valuing rates, investigating implied volatility; features 15+ derivative models and advanced numerical algorithms
 * [forecast_vol](https://github.com/Diljit22/forecast_vol) - Attention‑based pipeline forecasting minute‑level volatility
 * [stochCalc](https://github.com/Diljit22/stochCalc) - Symbolic & numeric calculus for Stochastic Differential Equation systems
 * [RMBS](https://github.com/Diljit22/rmbs) - Waterfall analytics for residential MBS structures

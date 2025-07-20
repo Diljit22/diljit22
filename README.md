@@ -25,18 +25,19 @@
 
 ## Select Projects
 
-| Project | Stack / Highlights |
-|---------|--------------------|
-| **[OptPricing](https://diljit22.github.io/quantFin)**<br> Pricing & calibration engine (15+ models; API + CLI + Streamlit UI) | Python · NumPy/Pandas · Numba · **Monte Carlo · FFT · PDE · Lattice** kernels · CI/CD|
-| **[forecast_vol](https://github.com/Diljit22/forecast_vol)**<br>Attention‑based pipeline forecasting minute‑level volatility (2 M × 120 cols) | TensorFlow · EGARCH baseline · GNN variant · Docker ETL · GitHub Actions |
-| **[stochCalc](https://github.com/Diljit22/stochCalc)**<br>Symbolic & numeric calculus for Stochastic Differential Equation systems | SymPy · stochastic processes |
-| **[RMBS](https://github.com/Diljit22/rmbs)**<br>Waterfall analytics for residential MBS structures | Monte Carlo · fixed‑income modeling · cash‑flow waterfalls |
+Quantative finance projects
 
-<details><summary>Some number theory projects</summary>
+* [OptPricing](https://diljit22.github.io/quantFin) – Python library pricing option contracts, valuing rates, investigating implied volatatily; features 15+ derivative models and advanced numerical algorithms
+* [forecast_vol](https://github.com/Diljit22/forecast_vol) - Attention‑based pipeline forecasting minute‑level volatility
+* [stochCalc](https://github.com/Diljit22/stochCalc) - Symbolic & numeric calculus for Stochastic Differential Equation systems
+* [RMBS](https://github.com/Diljit22/rmbs) - Waterfall analytics for residential MBS structures
+
+Some number theory projects
 
 * [primes](https://github.com/Diljit22/primes) – advanced primality testing and factorization methods 
 * [ellipticCurve](https://github.com/Diljit22/ellipticCurve) – computations over ℚ & finite fields  
 * [ECM](https://github.com/Diljit22/ECM) – elliptic‑curve factorization
+
 
 </details>
 

@@ -38,21 +38,19 @@ Some number theory projects
 * [ellipticCurve](https://github.com/Diljit22/ellipticCurve) – computations over ℚ & finite fields  
 * [ECM](https://github.com/Diljit22/ECM) – elliptic‑curve factorization
 
-
-</details>
-
 ## Tech Stack
-| Domain | Tools / Frameworks |
-|--------|--------------------|
-| **Languages** | Python · C++ · MATLAB · SQL · Bash |
-| **Data / Numerics** | NumPy · Pandas · SciPy · Numba/Cython |
-| **ML / DL** | TensorFlow · PyTorch · scikit‑Learn · Optuna |
-| **Quant / Time‑Series** | Stochastic Calculus · PDE Approximations · Variance Reduction Methods · Monte Carlo Simulation · GARCH/EGARCH · HMMs |
-| **DevOps** | Git & GitHub Actions · Docker · REST APIs · Streamlit |
-| **Docs** | LaTeX · Markdown · Sphinx + MkDocs |
----
 
-### Certifications
-* *Machine Learning* - Stanford University
-* *SQL for Data Science* - University of California, Davis
+> Languages:
+Python | C++ | MySQL | MATLAB | Bash
+
+> Frameworks: 
+NumPy | Pandas | SciPy | Numba/Cython | Polars | TensorFlow | PyTorch | scikit‑Learn | Optuna | Polars
+
+> DevOps: 
+Git | CI/CD | Docker | REST APIs | Streamlit | Linux
+
+> Quant: 
+Stochastic Calculus | PDE Approximations | Variance Reduction Methods | Monte Carlo Simulation | Lattice Methods
+
+Certifications in *Machine Learning* (Stanford) and *SQL for Data Science* (UC Davis)
 

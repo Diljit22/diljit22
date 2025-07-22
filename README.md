@@ -44,7 +44,7 @@ Some number theory projects
 Python | C++ | MySQL | MATLAB | Bash
 
 > Frameworks: 
-NumPy | Pandas | SciPy | Numba/Cython | Polars | TensorFlow | PyTorch | scikit‑Learn | Optuna | Polars
+NumPy | Pandas | SciPy | Numba/Cython | TensorFlow | PyTorch | scikit‑Learn | Optuna | Polars
 
 > DevOps: 
 Git | CI/CD | Docker | REST APIs | Streamlit | Linux

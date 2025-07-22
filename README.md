@@ -25,7 +25,7 @@
 
 ## Select Projects
 
-Quantative finance projects
+Quantitative finance projects
 
 * [OptPricing](https://diljit22.github.io/optpricing/) – Python library pricing option contracts, valuing rates, investigating implied volatility; features 15+ derivative models and advanced numerical algorithms
 * [forecast_vol](https://github.com/Diljit22/forecast_vol) - Attention‑based pipeline forecasting minute‑level volatility

@@ -1,6 +1,6 @@
 <h1 align="center">Diljit Singh</h1>
 <p align="center">
-  Currently a Go based SWE · Research‑level mathematics · Interested in Quant & ML projects
+  Currently a Go based SWE · Research‑level mathematics · Interested in Quant & ML
 </p>
 
 <p align="center">

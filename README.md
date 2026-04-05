@@ -1,6 +1,6 @@
 <h1 align="center">Diljit Singh</h1>
 <p align="center">
-  Production‑ready engineer · Research‑level mathematics · Quant & ML builder
+  Currently a Go based SWE · Research‑level mathematics · Interested in Quant & ML projects
 </p>
 
 <p align="center">
@@ -41,13 +41,13 @@ Some number theory projects
 ## Tech Stack
 
 > Languages:
-Python | C++ | MySQL | MATLAB | Bash
+Python | Go | C++
 
-> Frameworks: 
+> Python Frameworks:
 NumPy | Pandas | SciPy | Numba/Cython | TensorFlow | PyTorch | scikit‑Learn | Optuna | Polars
 
-> DevOps: 
-Git | CI/CD | Docker | REST APIs | Streamlit | Linux
+> Backend/Infra:
+gRPC, REST APIs, Kafka, SQL, NoSQL, Redis, GCP, Docker, Git, Unix/Linux
 
 > Quant: 
 Stochastic Calculus | PDE Approximations | Variance Reduction Methods | Monte Carlo Simulation | Lattice Methods
